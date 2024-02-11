@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 
 
-public class TestJdbc {
+public class TestJdbc1 {
 
 	public static void main(String[] args) {
 		
